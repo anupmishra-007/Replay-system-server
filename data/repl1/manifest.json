@@ -1,0 +1,19 @@
+{
+  "sessionName": "repl1",
+  "app": "MultiplayerDemo",
+  "version": "1207394107",
+  "changelist": 37670630,
+  "friendlyName": "test2",
+  "isLive": false,
+  "isCompleted": true,
+  "totalChunks": 6,
+  "totalDemoTimeMs": 28443,
+  "totalUploadedBytes": 109407,
+  "createdAt": "2026-04-21T09:44:02.410Z",
+  "updatedAt": "2026-04-21T09:45:37.541Z",
+  "users": [
+    "repl1"
+  ],
+  "viewers": [],
+  "events": []
+}

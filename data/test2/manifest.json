@@ -1,0 +1,26 @@
+{
+  "sessionName": "test2",
+  "app": "MultiplayerDemo",
+  "version": "1207394107",
+  "changelist": 37670630,
+  "friendlyName": "test2",
+  "isLive": false,
+  "isCompleted": true,
+  "totalChunks": 5,
+  "totalDemoTimeMs": 24548,
+  "totalUploadedBytes": 114064,
+  "createdAt": "2026-04-21T09:06:09.825Z",
+  "updatedAt": "2026-04-21T09:44:00.095Z",
+  "users": [
+    "test2"
+  ],
+  "viewers": [
+    {
+      "viewerId": "044753d4245b4d4da080753086fd1d29",
+      "user": "ShashankArya-179A46914F7C8A5A01AB5A9DEBEDF57D",
+      "lastSeenAt": "2026-04-21T09:07:56.476Z",
+      "final": false
+    }
+  ],
+  "events": []
+}
